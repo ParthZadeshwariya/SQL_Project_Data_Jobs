@@ -60,7 +60,7 @@ ORDER BY
     salary_year_avg DESC
 LIMIT 10;
 ```
-![salary_by_job_title_bar_chart](assets\salary_by_job_title_bar_chart.png)
+![Top Skills Bar Chart](assets/top_skills_bar_chart.png)
 
 ### Top Skills For Data Analysts in India
 #### Insights
@@ -69,11 +69,11 @@ LIMIT 10;
 - **AI/ML frameworks** (TensorFlow, PyTorch) show up, suggesting overlap with data science.
 - **Collaboration & documentation** tools (Jira, Confluence, Word, Visio) are expected in enterprise settings.
 - **Cloud** & systems knowledge (Azure, Unix, Windows) indicates a shift towards hybrid analyst-engineer roles.
+![Salary by Job Title Bar Chart](assets/salary_by_job_title_bar_chart.png)
 
-![top_skills_bar_chart](assets\top_skills_bar_chart.png)
 
-#### Word Cloud Representation
-![top_skills_bar_chart](assets\skill_demand_word_cloud.png)
+    #### Word Cloud Representation
+    ![Skill Demand Word Cloud](assets/skill_demand_word_cloud.png)
 
 ### Other Areas of Analysis include:
 - #### Top Demanded Skills
