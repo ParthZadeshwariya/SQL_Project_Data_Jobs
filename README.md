@@ -3,7 +3,7 @@ The Data Jobs SQL Project explores the job market in the field of data, with a p
 
 Used structured queries in this project to highlight the relationship between job roles, required skills, and compensation, helping aspiring professionals understand where to focus their efforts in building a career in data.
 
-Check Out SQL queries here: [project_sql folder](\project_sql)
+Check Out SQL queries here: [project_sql folder](project_sql)
 
 # Background
 Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
